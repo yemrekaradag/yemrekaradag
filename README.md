@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yemrekaradag&label=Profile%20views&color=0e75b6&style=flat" alt="yemrekaradag" /> </p>
-<br>
-<br>
 
 - 🔭 I’m currently working on **my web api about microservices**
 
