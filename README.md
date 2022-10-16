@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif)]
+[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif)]()
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1>
 <h3 align="center">A passionate software developer from Istanbul, Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif">
