@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yemrekaradag@hotmail.com**
 
-- ⚡ Fun fact **I think i am hardworking**
+- ⚡ Fact **I am hardworking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
