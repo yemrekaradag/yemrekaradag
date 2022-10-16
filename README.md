@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1>
 <h3 align="center">A passionate software developer from Istanbul, Turkey</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif">
-<br>
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yemrekaradag&label=Profile%20views&color=0e75b6&style=flat" alt="yemrekaradag" /> </p>
+<br>
+<br>
 
 - 🔭 I’m currently working on **my web api about microservices**
 
