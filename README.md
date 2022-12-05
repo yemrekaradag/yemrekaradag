@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my web api about microservices**
 
-- 🌱 I’m currently learning **NET Core Microservices** & **SwiftUI**
+- 🌱 I’m currently learning **NET Core Microservices** & **Golang**
 
 - 💬 Ask me about **Software Architectural, Because I love be interested in with it!**
 
