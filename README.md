@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Software Architectural, Because I love be interested in with it!**
 
-- 📫 How to reach me **yemrekaradag@hotmail.com**
+- 📫 Please contact me through my **LinkedIn** profile
 
 - ⚡ Fact **I am hardworking**
 
